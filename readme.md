@@ -1,3 +1,3 @@
-publish reminder
-$ pelican content -o output -s pelicanconf.py
+publish reminder  
+$ pelican content -o output -s pelicanconf.py  
 $ ghp-import output
