@@ -38,7 +38,7 @@ PLUGINS = ['assets']
 
 GOOGLE_ANALYTICS_ID = None
 GOOGLE_ANALYTICS_PROP = None
-USER_LOGO_URL = None
+USER_LOGO_URL = 'http://i.imgur.com/3ANGARn.png'
 MANGLE_EMAILS = True
 GLOBAL_KEYWORDS = []
-FUZZY_DATES = False #uses JS to display fancy dates
+FUZZY_DATES = True #uses JS to display fancy dates
