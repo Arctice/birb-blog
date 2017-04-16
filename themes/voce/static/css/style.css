@@ -299,9 +299,15 @@ hr.section-divider {
 }
 
 .post-inner-content {
-  /*border-bottom: 1px solid #dedede;*/
+  border-bottom: 1px solid #555555;
   padding: 50px 0;
 }
+
+.article-contents {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 .archive .post-inner-content {
   margin-bottom: 50px;
 }

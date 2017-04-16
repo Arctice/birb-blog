@@ -29,6 +29,7 @@
 {% block content %}
 <article>
   <div class="blog-item-wrap">
+    <div class="article-contents">
     <div class="post-inner-content">
       <header class="entry-header page-header">
         <span class="cat-item"><time datetime="{{ article.date }}">{{ article.locale_date }}</time></span>
@@ -47,7 +48,7 @@
           {% endfor %}
         {% endif %}
       </div>
-    </div>
+    </div></div>
   </div>
 </article><!-- #post-## -->
 {% endblock %}
