@@ -36,7 +36,9 @@ THEME = './themes/voce/'
 PLUGIN_PATHS = ['./themes/voce/plugins/']
 PLUGINS = ['assets']
 
-#JINJA_ENVIRONMENT = {}
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+GOOGLE_ANALYTICS_ID = None
+GOOGLE_ANALYTICS_PROP = None
+USER_LOGO_URL = None
+MANGLE_EMAILS = True
+GLOBAL_KEYWORDS = []
+FUZZY_DATES = False #uses JS to display fancy dates
