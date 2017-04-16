@@ -21,6 +21,7 @@ parts/
 sdist/
 var/
 birb-blog/
+output/
 *.egg-info/
 .installed.cfg
 *.egg
