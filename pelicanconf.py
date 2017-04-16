@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'birbs'
 SITENAME = 'names-are-hard'
-SITEURL = 'https://arctice.github.io/birb-blog'
+SITEURL = 'birb.uk'
 
 PATH = 'content'
 
@@ -41,3 +41,7 @@ USER_LOGO_URL = 'http://i.imgur.com/3ANGARn.png'
 MANGLE_EMAILS = True
 GLOBAL_KEYWORDS = []
 FUZZY_DATES = True #uses JS to display fancy dates
+
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = True
+DEFAULT_CATEGORY = 'Misc'

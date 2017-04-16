@@ -136,6 +136,12 @@
         </span><!-- end of .site-name -->
       </div><!-- end of #logo -->
         <div class="tagline">
+                        
+          {% for category, articles in categories|sort|reverse %}
+            <a href="{{ SITEURL }}/{{ category.url }}">{{ category }} ({{ articles|count }}) </a>
+             {% if not loop.last %} &#124; {% endif %}
+          {% endfor %}
+  
             {% if TAGS_URL %}
               {% for tag, articles in tags|sort %}
                 <a href="{{ SITEURL }}/{{ tag.url }}" {{ 'class="active"' if  output_file == tag.url }}>{{ tag }} ({{ articles|count }})</a> &#124; 
@@ -176,7 +182,7 @@
       <div class="site-info container">
         <div class="row">
                     <div class="copyright col-md-12">
-                    <a href="{{ SITEURL }}/about.html">About</a>
+                    <a href="{{ SITEURL }}/pages/about.html">About</a>
                      | <a href="https://github.com/Arctice/birb-blog">Github</a>
                      | <a href="https://github.com/limbenjamin/voce">voce</a> theme by <a href="//limbenjamin.com/">Benjamin Lim</a><br />
                     &copy; Stardate 2285 <a href="{{ SITEURL }}">{{ AUTHOR }}</a> </div>
