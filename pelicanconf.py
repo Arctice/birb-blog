@@ -20,16 +20,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Home', '/index.html'),
+LINKS = (('Home', SITEURL+'/index.html'),
         ('Uni', 'https://twitter.com/Unis_verse'),
         ('Arc', 'https://twitter.com/rainlife__'),
         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ()
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 4
 
 THEME = './themes/voce/'
 
