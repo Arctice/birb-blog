@@ -38,7 +38,10 @@ LINKS = (('Home', SITEURL+'/index.html'),
         )
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (
+  ('RSS', 'http://birb.uk/feeds/all.rss'),
+  ('Atom', 'http://birb.uk/feeds/all.atom.xml'),
+)
 
 DEFAULT_PAGINATION = 4
 
