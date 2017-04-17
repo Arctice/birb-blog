@@ -54,7 +54,8 @@
   {%- set temp = link|lower|replace('http://', '')|replace('https://', '')|replace('www.', '') -%}
 
   {# Choosing a specific link icon #}
-
+  
+  {% set content_text = '' %}
 
   {%- if temp.startswith('bitcoin:') %}{% set class = 'fa-btc' %}
   {% elif temp.startswith('irc:') %}{% set class = 'fa-comments' %}
@@ -85,10 +86,10 @@
   {% elif temp.startswith('youtube.com') %}{% set class = 'fa-youtube' -%}
   {%- elif '.stackexchange.com' in temp %}{% set class = 'fa-stack-exchange' %}
   {%- elif 'atom' in temp %}{% set class = 'fa-rss' %}
-  {%- elif 'rss' in temp %}{% set class = 'fa-rss' %}
+  {%- elif 'rss' in temp %}{% set content_text = 'rss' %}
   {% endif -%}
 
-  <i class="fa {{ class }} fa-lg"></i>
+  <i class="fa {{ class }} fa-lg">{{ content_text }}</i>
 {%- endmacro -%}
 
 {%- macro display_link(name, link, text) -%}
