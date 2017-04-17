@@ -27,6 +27,10 @@ MARKDOWN = {'extension_configs':{
                 }
         }
 
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
+
 # Blogroll
 LINKS = (('Home', SITEURL+'/index.html'),
         ('Uni', 'https://twitter.com/Unis_verse'),
