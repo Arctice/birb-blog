@@ -85,6 +85,7 @@
   {% elif temp.startswith('youtube.com') %}{% set class = 'fa-youtube' -%}
   {%- elif '.stackexchange.com' in temp %}{% set class = 'fa-stack-exchange' %}
   {%- elif 'atom' in temp %}{% set class = 'fa-rss' %}
+  {%- elif 'rss' in temp %}{% set class = 'fa-rss' %}
   {% endif -%}
 
   <i class="fa {{ class }} fa-lg"></i>
