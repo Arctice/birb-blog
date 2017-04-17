@@ -1,6 +1,6 @@
 Title: Some thoughts on Myst, Riven, The Witness, and other stuff.
 Date: 2017-04-12 8:44
-Category: Video Games
+Category: Game Analysis
 Tags: witness, myst, riven
 Slug: uni-myst-witness
 Authors: Uni
