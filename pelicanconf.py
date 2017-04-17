@@ -1,24 +1,19 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 AUTHOR = 'birbs'
 SITENAME = 'birb plays games'
 SITEURL = 'http://birb.uk'
-#SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
-
 DEFAULT_LANG = 'English'
 
-# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+GOOGLE_ANALYTICS_ID = None
+GOOGLE_ANALYTICS_PROP = None
 
 # Blogroll
 LINKS = (('Home', SITEURL+'/index.html'),
@@ -36,12 +31,9 @@ THEME = './themes/voce/'
 PLUGIN_PATHS = ['./themes/voce/plugins/']
 PLUGINS = ['assets']
 
-GOOGLE_ANALYTICS_ID = None
-GOOGLE_ANALYTICS_PROP = None
 USER_LOGO_URL = 'http://i.imgur.com/3ANGARn.png'
 MANGLE_EMAILS = True
-GLOBAL_KEYWORDS = []
-FUZZY_DATES = True #uses JS to display fancy dates
+FUZZY_DATES = True  # uses JS to display fancy dates
 
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
