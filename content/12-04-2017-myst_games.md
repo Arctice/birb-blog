@@ -5,6 +5,7 @@ Tags: witness, myst, riven
 Slug: uni-myst-witness
 Authors: Uni
 Summary: Scattered thoughts on Myst, Riven, and the Witness, or why I like bad games more than a good one; not really any spoilers, there's some vague references to what happens in game but nothing that will give away a solution or plot.
+Status: published
 
 Myst is a game that was truly groundbreaking for the medium. While its setup of a mute player-insert protagonist walking around quiet environments and solving puzzles is something that's become popular in recent years, Myst intertwined the concepts of exploration, mystery, and narrative back in 1993 in a way that hadn't been seen before. Its sequel Riven carried on that legacy of innovation, building on the concept of exploration while moving away from the a deliberately puzzle-oriented structure in an attempt to leverage the unique strengths of first-person adventuring. Nineteen years after the release of Myst and Riven, with their impact on gaming impossible to calculate, The Witness was released in an attempt to recapture what made those games so intriguing in the first place while stripping away the flaws a more distant perspective could reveal. However, even with each game sharing the core principles of first-person explorative puzzle solving, each one uniquely mixes these elements to leverage the strengths of the genre.
 
