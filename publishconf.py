@@ -13,8 +13,8 @@ AUTHOR_FEED_ATOM = 'feeds/by_%s.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss'
 CATEGORY_FEED_RSS = 'feeds/%s.rss'
 AUTHOR_FEED_RSS = 'feeds/by_%s.rss'
-#GOOGLE_ANALYTICS = ""
-#GOOGLE_ANALYTICS_ID = None
+GOOGLE_ANALYTICS = 'UA-97540243-1'
+GOOGLE_ANALYTICS_ID = 'UA-97540243-1'
 #GOOGLE_ANALYTICS_PROP = None
 
 # Markdown extensions
