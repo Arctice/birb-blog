@@ -85,8 +85,8 @@
   {% elif temp.startswith('vine.co') %}{% set class = 'fa-vine' %}
   {% elif temp.startswith('youtube.com') %}{% set class = 'fa-youtube' -%}
   {%- elif '.stackexchange.com' in temp %}{% set class = 'fa-stack-exchange' %}
-  {# {%- elif 'atom' in temp %}{% set class = 'fa-rss' %} #}
-  {%- elif 'atom' in temp %}{% set content_text = 'ATOM' %}
+  {# {%- elif 'atom' in temp %}{% set class = 'fa-rss' %} turns the atom link into the rss icon #}
+  {%- elif 'atom' in temp %}{% set content_text = 'atom' %}
   {%- elif 'rss' in temp %}{% set content_text = 'rss' %}
   {% endif -%}
 
