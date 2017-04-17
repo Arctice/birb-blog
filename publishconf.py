@@ -19,7 +19,7 @@ AUTHOR_FEED_RSS = 'feeds/by_%s.rss'
 
 # Markdown extensions
 MARKDOWN = {'extension_configs':{
-                'markdown.extensions.footnotes': {},
+                #'markdown.extensions.footnotes': {}, broken as hell
                 'markdown.extensions.tables': {},
                 'markdown.extensions.nl2br': {},
                 'markdown.extensions.sane_lists': {},
