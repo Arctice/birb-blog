@@ -50,7 +50,7 @@ THEME = './themes/voce/'
 PLUGIN_PATHS = ['./themes/voce/plugins/']
 PLUGINS = ['assets']
 
-USER_LOGO_URL = 'http://i.imgur.com/3ANGARn.png'
+USER_LOGO_URL = SITEURL+'/images/header_birb.png'
 MANGLE_EMAILS = True
 FUZZY_DATES = True  # uses JS to display fancy dates
 

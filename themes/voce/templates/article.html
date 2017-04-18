@@ -29,18 +29,34 @@
 {% block content %}
 <article>
   <div class="blog-item-wrap">
-    <div class="article-contents">
     <div class="post-inner-content">
+
+      <!-- header -->
       <header class="entry-header page-header">
-        <span class="cat-item"><time datetime="{{ article.date }}">{{ article.locale_date }}</time></span>
-        <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-      </header><!-- .entry-header -->
+        <h1 class="entry-title">
+            <a href="{{ SITEURL }}/{{ article.url }}">
+                {{ article.title }}</a></h1>
+        <span class="entry-title">
+            <a href="{{ SITEURL }}/{{ article.author.url }}">
+                {{ article.author }}</a></span> /
+        <span class="cat-item"><time datetime="{{ article.date }}">
+            {{ article.locale_date }}</time></span>
+      </header>
+
+    <div class="article-contents"> <!-- text margin -->
+
+      <!-- content -->
       <div class="fb-like" data-href="{{ SITEURL }}/{{ article.url }}" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
       <div class="entry-content">
         {{ article.content }}
-      </div><!-- .entry-content -->
+      </div>
       <br /><br />
+
+      <!-- tags -->
+      
       <div class="article_meta">
+        Back to the <a href="{{ SITEURL }}"><b>frontpage</b></a>
+        <br>
         {% if TAG_URL and article.tags %}
         Tags:
           {% for tag in article.tags %}

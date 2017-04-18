@@ -255,7 +255,7 @@ textarea {
   margin: 0 0 1.5em;
 }
 .main-content-area {
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 40px;
 }
 /* =Post styling
@@ -300,12 +300,12 @@ hr.section-divider {
 
 .post-inner-content {
   border-bottom: 1px solid #555555;
-  padding: 50px 0;
+  padding-bottom: 40px;
 }
 
 .article-contents {
-  margin-left: 15%;
-  margin-right: 15%;
+  max-width: 750px;
+  margin: auto;
 }
 
 .archive .post-inner-content {
@@ -313,7 +313,7 @@ hr.section-divider {
 }
 .page .post-inner-content {
   border: 0;
-        padding: 0;
+  padding: 0;
 }
 article.post:first-child .post-inner-content {
     padding-top: 0;
@@ -494,7 +494,7 @@ article.grid iframe {
 /* =Custom Styles
 ----------------------------------------------- */
 #logo {
-  padding: 50px 0 45px 0;
+  padding: 20px 0 10px 0;
   text-align: center;
   border-bottom: 1px solid #dedede;
 }
