@@ -16,7 +16,7 @@ GOOGLE_ANALYTICS_ID = None
 GOOGLE_ANALYTICS_PROP = None
 
 # Blogroll
-LINKS = (('Home', SITEURL+'/index.html'),
+LINKS = (('Home', SITEURL),
         ('Uni', 'https://twitter.com/Unis_verse'),
         ('Arc', 'https://twitter.com/rainlife__'),
         )
