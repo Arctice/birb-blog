@@ -17,3 +17,5 @@ deploy:
   target_branch: gh-pages
   on:
     branch: master
+notifications:
+  email: false
