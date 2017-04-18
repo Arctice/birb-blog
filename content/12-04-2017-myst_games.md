@@ -22,29 +22,3 @@ Riven is the direct response to this idea that separation between puzzles and en
 The Witness seems to be the modern descendent of Myst and Riven, more so than any other modern first person exploration games like Amnesia and Soma. While The Witness wasn't made by the same people or directly related to Myst, its lead designer has spoken about the influence these games had on the Witness, and comparisons come naturally with a nearly identical gameplay premise. The most notable difference is yet again a shift in the style of puzzles to solve. Myst set them next to the environment, Riven made them the environment itself, and the Witness sets them outside the environment almost entirely. Riven and The Witness are almost diametrically opposed, with Riven's environment being the mystery to solve, and the Witness' environment serving primarily as a backdrop to its hundreds of mechanical puzzles. There aren't any moments aside from the optional areas where you'll feel like the solutions are esoteric, or that you missed a detail in a dark shadow somewhere on the island, but this also means that the environment isn't the player or the game's real focus. The Witness does have some good moments of environmental interaction, but the very strong majority of solutions exist only on each puzzle panel. The exceptions are often superficial, walking around until an environmental features lines up with a panel and reveals the correct solution. To put it simply, the elimination of what the lead designer called "pixel hunts" from Myst flattened the experience, raising the lows the lowering the heights a player would experience.
 
 By overlapping each of these game's individual successes and failures, you can begin to see the strengths and weaknesses of the genre as a whole. The core element is the environmental design, being the key to every player interaction when the gameplay is so strongly based on discovery. Being so rigorously first-person, even in cutscenes, emphasizes how the whole point of the experience is for players to take in their environment with no distraction. The secondary strength is the puzzling, which can come in a direct way, an environmental way, or a mixed approach. Of these three, The Witness feels the most direct, Riven the most environmental, and Myst being the mix. While all these approaches are equally valid from a game design standpoint, the goal for secondary mechanics is to compliment the core experience, in this case being exploring an environment. The tertiary focus of these games is direct storytelling, instead opting for most details to be picked up naturally through exploration. Myst and Riven each have simple plots, but the details you pick up along the way are what define the narrative more than the direct plot points. The Witness is even more sparse, really only pulling back the curtain only after you've beaten the game, and has hardly any audio or text to distract from the visual experience. With this hierarchy of goals established, the game with the most aligned goals and implementation would have to be Riven. This doesn't necessarily mean it's the best game of the three, but it's designed in a way that suggests an understanding of the genre, with the environment being the center of every gameplay and narrative element. Myst had tried to accomplish those goals, but with its puzzles and story laid on top of the environments rather than integrated within them, Riven had the advantage of learning and refining those goals. This leaves me with some disappointment in the direction chosen for The Witness that I hadn't felt when I had played it before. The Witness almost feels like a step backwards, with the puzzles and environment are almost entirely separate and no narrative link to encourage exploration or promote interest. This isn't to say that moving away from rigid genre definitions automatically makes a game terrible, and the opposite is more often true, but as mentioned before The Witness ended up moving away from the strengths along with the weaknesses. There are definitely elements from Myst and Riven to ditch, with some bad layouts, quirky puzzles, and obvious technical limitations, but it would have been nice to take the same aspirations a step forward rather than a step back. It's not just The Witness shying away from these ideas, so I don't want to be too mean to it specifically, it's just a shame that the great-grandchildren of Myst and grandchildren of Riven have forgotten why those games were so beloved even with so many issues. I hope more games like The Witness can boldly sell themselves in a media markets naturally set up to appeal to as many people as possible, while bringing the genre forward in a way that shows how captivating a fully realized world can be.
-
-Thanks for reading, Arc.
-<3 <3 <3 if anyone else did
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-i'm not a VR plonker but shit bro i mean really if i could play Riven in VR i would jizz til i died of dehydration
