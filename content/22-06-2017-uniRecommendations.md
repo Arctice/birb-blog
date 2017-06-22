@@ -8,7 +8,7 @@ Summary: Looking for something to play, or buy on the Steam Sale? Here's 10 game
 
 If I'm going to be posting game design discussion on this site, I thought it would be a good idea to put out some recommendations and give people a sense of how my preferences translate into something tangible. Even if you already know what my preferences are, I'll try to recommend one game in each major genre so everyone has something new to try. Just in time for the Steam Summer Sale!
 
-<img src="{attach}images/Shatterhand.png" width="75%"></img>
+<img src="{attach}images/Shatterhand.png" width="66%"></img>
 **Platformer: Shatterhand, 1991, NES**
 Shatterhand is my go-to example of design elegance. The focus of the game is beat-em-up combat, so punching was made to be the mechanism of all other player agency. Choosing which robot you want to accompany you is handled by punching selection tiles, and they attack when you punch. You get money by punching boxes, and can get a bonus amount by punching money sacks. The efficient use of a basic control scheme makes the game simple and satisfying, letting new players easily jump in while rewarding more experienced players who take the time to learn the strengths of each robot. While the game escalates into some absurd difficulty in the final stage, it's worth playing to see the height of what the NES could do.
 
