@@ -4,7 +4,7 @@ Category: Game Analysis
 Tags: recommendations 
 Slug: uni-recommendations 
 Authors: Uni 
-Summary: Looking for something to play, or buy on the Steam Sale? Here's 10 games I love, in 10 different genres, so hopefully there will be something here you're interested in.
+Summary: Looking for something to play, or buy on the Steam Sale? Here's ten games I love, in ten different genres, so hopefully there will be something here you're interested in.
 Status: Published
 
 If I'm going to be posting game design discussion on this site, I thought it would be a good idea to put out some recommendations and give people a sense of how my preferences translate into something tangible. Even if you already know what my preferences are, I'll try to recommend one game in each major genre so everyone has something new to try. Just in time for the Steam Summer Sale!
