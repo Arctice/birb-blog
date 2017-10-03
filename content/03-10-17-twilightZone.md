@@ -29,7 +29,7 @@ This is an episode with huge influence on the horror genre, and for good reason.
 
 ![The Monsters Are Due On Maple Street]({attach}images/theMonstersAreDueOnMapleStreet.png)
 **The Monsters Are Due On Maple Street (season 1, episode 22)**
-I said that "Where Is Everybody?" is a good taste of what The Twilight Zone is all about, and if that's true, this episode is main course. It's considered one of the best in the series for good reason, mixing the horrific, moralistic, cautionary, and even political elements together to deliver a story that will still resonate with modern viewers. If I had only one episode to convince someone that this series is still relevant, it would be this one.
+I said that "Where Is Everybody?" is a good taste of what The Twilight Zone is all about, and if that's true, this episode is the main course. It's considered one of the best in the series for good reason, mixing the horrific, moralistic, cautionary, and even political elements together to deliver a story that will still resonate with modern viewers. If I had only one episode to convince someone that this series is still relevant, it would be this one.
 
 ![A Stop At Willoughby]({attach}images/aStopAtWilloughby.png)
 **A Stop At Willoughby (season 1, episode 30)**
