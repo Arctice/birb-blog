@@ -15,11 +15,11 @@ I'm not much into horror, which makes it a little strange that The Twilight Zone
 
 >"The place is here. The time is now, and the journey into the shadows that we are about to watch, could be our journey" - Rod Serling, Producer, Narrator, and Screenwriter of The Twilight Zone
 
-<img src="{attach}images/whereIsEverybody.png" width="66%"></img>
+![Where is Everybody?]({attach}images/whereIsEverybody.png)
 **Where is Everybody? (season 1, episode 1)**
 As a Star Trek fan, terrible first episodes are something I've come to expect, but this one does a great job at establishing the atmosphere of the series. It's quiet and tense, with shots that remind you of modern movies like "I Am Legend", even with comparatively primitive filmmaking tools. You could use this episode as an example for how far you can take a story without computers or a high budget, using creative methods to tell a gripping story of total isolation.
 
-<img src="{attach}images/whatYouNeed.png" width="66%"></img>
+![What You Need]({attach}images/whatYouNeed.png)
 **What You Need (season 1, episode 12)**
 While The Twilight Zone is primarily known for its horror, this episode shows the other side of the series with a cautionary tale. This is a natural fit for a show where the variables of reality are unreliable, putting people into unrealistic scenarios which test their character in a way that still feels realistic. When watching this episode in particular, it's natural to wonder how you would react if you were put in the shoes of the main character, and it's this thought-provoking nature that makes the show more than the sum of its parts.
  
