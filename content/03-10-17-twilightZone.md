@@ -37,11 +37,11 @@ This episode may be more relatable to an audience today more than when it was or
 
 ![Eye of the Beholder]({attach}images/eyeOfTheBeholder.png)
 **Eye of the Beholder (season 2, episode 6)**
-The cinematography of this episode has made it one of the most iconic in television history. Television can often rely on a practical, easy-to-produce shooting style, so the way this episode breaks the mold with a unique artistic vision makes it feel wonderfully unsettling. Even if you already know the plot of this episode, it's worth watching for how meticulously it builds suspense.
+The cinematography of this episode has made it one of the most iconic in television history. Television can often rely on a practical, easy-to-produce shooting style, so the way this episode breaks the mold with a unique artistic vision makes it wonderfully unsettling. Even if you already know the plot of this episode, it's worth watching for how meticulously it builds suspense.
 
 ![The Invaders]({attach}images/theInvaders.png)
 **The Invaders (season 2, episode 15)**
-"Eye of the Beholder is to visuals as "The Invaders" is to sound. The most dialogue you get at one time is Rod Serling's intro, and after that you're left to watch as the silent conflict unfolds. It touches on the basic fears of solitude and the unknown, in the same way that "The Hitchhiker" conveyed the primal terror of being chased. The way the episode worldlessly accomplishes this is incredible, and it's a must-watch if you appreciate minimalist story presentation.
+"Eye of the Beholder" is to visuals as "The Invaders" is to sound. The most dialogue you get at one time is Rod Serling's intro, and after that you're left to watch as the silent conflict unfolds. It touches on the basic fears of solitude and the unknown, in the same way that "The Hitchhiker" conveyed the primal terror of being chased. The way the episode worldlessly accomplishes this is incredible, and it's a must-watch if you appreciate minimalist story presentation.
 
 ![The Shelter]({attach}images/theShelter.png)
 **The Shelter (season 3, episode 3)**
