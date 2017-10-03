@@ -59,8 +59,8 @@ Those episodes are some of my favorites, but there are a few notable exclusions 
 
 * Time Enough At Last (season 1, episode 8)
 * Mirror Image (season 1, episode 21)
-* To Serve Man (season 3, episode 24)
 * The Obsolete Man (season 2, episode 29)
+* To Serve Man (season 3, episode 24)
 * Nightmare at 20,000 Feet (season 5, episode 3)
 
 Let me know on Twitter which ones you watched and which ones you enjoyed! Have a spoopy Spooptober!
