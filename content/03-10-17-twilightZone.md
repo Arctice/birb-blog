@@ -5,6 +5,7 @@ Tags: recommendations
 Slug: twilight-zone 
 Authors: Uni 
 Summary: The Twilight Zone is my favorite TV Show of all time, and I wanted to share it with people for a Spooptober special.
+Status: Published
 
 I'm not much into horror, which makes it a little strange that The Twilight Zone is my favorite show. It's considered to be one of the pillars of the genre, with an iconic style, memorable stories, and an intro that has embedded itself into the pop-cultural psyche. However, the age of the show and existence of modern alternatives have made the source material begin a slide into obscurity. So, I wanted to share my passion for this show and hopefully create a few more fans with a little guide for some of the series' best episodes. These ten will cover the breadth of the show's styles, along with a small explanation of what made each one so special. A few notes:
 
