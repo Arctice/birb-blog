@@ -55,7 +55,7 @@ This is my favorite episode of the series, even if it's not popularly considered
 **Five Characters In Search Of An Exit (season 3, episode 14)**
 The only way I can describe this episode is by saying it's a wild card. The premise is simple: five people of various occupations are trapped inside a gigantic circular pillar, and need to get out. While that's all there is to it, the simple mystery to it and the odd cast of characters make it all feel like a strange dream. It's a great example of how the effectively the show can establish a mood even without the use of explicit horror elements, and is considered one of the show's best episodes.
 
-Those episodes are some of my favorites, but there are a few notable exclusions that I would feel remiss if I didn't mention. If you've watched the episodes I've listed and want more, here's a few where you can go in completely blind and enjoy the mystery.
+Those episodes are some of my favorites, but there are a few notable exclusions that I would feel remiss if I didn't mention. If you've watched the episodes I've listed and want more, here's a few where you can go in completely blind and enjoy the mystery:
 
 * Time Enough At Last (season 1, episode 8)
 * Mirror Image (season 1, episode 21)
@@ -63,4 +63,4 @@ Those episodes are some of my favorites, but there are a few notable exclusions 
 * The Obsolete Man (season 2, episode 29)
 * Nightmare at 20,000 Feet (season 5, episode 3)
 
-Let me know which ones you watched and which ones you enjoyed on Twitter! Have a spoopy Spooptober!
+Let me know on Twitter which ones you watched and which ones you enjoyed! Have a spoopy Spooptober!
