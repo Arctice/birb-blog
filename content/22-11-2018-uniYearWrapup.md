@@ -7,10 +7,9 @@ Authors: Uni
 Summary: Uni spent a few hours writing over 50 paragraphs of short game reviews of the things he played in 2018 so you better read it
 Status: Published
 
-**Intro and Table of Contents**
+# Intro and Table of Contents
 Holy balls I played a lot of games in 2018. This includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, because I think I've evangelized those enough. The three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything, just didn't quite hit the spot for me.
 
-Link Check
 Alpha Protocol
 Assassin's Creed IV: Black Flag
 Castlevania: Rondo of Blood
@@ -21,7 +20,7 @@ Deus Ex: Mankind Divided
 Devil May Cry
 Devil May Cry 3
 Devil May Cry 4
-[Factorio](#Factorio)
+[factorio](#factorio)
 Final Fantasy
 Fist of the North Star: Lost Paradise
 Game Dev Tycoon
@@ -67,15 +66,15 @@ We Know The Devil
 Westerado: Double Barreled
 Yakuza Kiwami 2
 
-(#Factorio)
+## Factorio
 
 If you were to ask the average gamer about Factorio, they would probably say "What the hell are you talking about", but if you were to ask someone who HAD heard about the game, they would probably tell you that it's very addicting. With endless potential for improving your factory and a low-pressure environment to do it in, it's easy to get invested and keep incrimentally optimizing for hours. However, if you're not the kind of person that typically likes those games, Factorio is difficult to recommend. On one hand, it's the gold standard of its niche, but it also doesn't spend much energy giving guidance or set goals. Luckily, it has a low price point of $20, so if it seems even a little interesting to you, it's worth a go.
 
-**Life is Strange: Before the Storm**
+## Life is Strange: Before the Storm
 
 The first Life is Strange lived and died on empathy. The writing was good enough to draw in people who could directly relate to the struggles on screen, but not good enough to make everyone else care. Personally, it was a big hit, but even I think making a prequel was a mistake. The events of Before the Storm were presented as a mystery in the first game, and were slowly revealed as you grew closer to other characters. To go back and remove all the mystery, and do so in three quick episodes instead of a full five, made it an unsatisfying narrative in multiple ways, even with a couple of good moments. Unless you're the biggest fan ever of Life is Strange, I probably wouldn't bother with this one.
 
-**Dead Space**
+## Dead Space
 
 This game came out in 2008, and I think everything that needs to be said about it has been said already. It's atmopheric, polished, fun, and you should check it out if you haven't already. You may notice that "scary" was missing from that list, so you could think I'm damning it with fine praise, but Dead Space shoots more for tension than scariness. I think that might be part of its widespread appeal; even people who don't typically like horror games can enjoy it after getting in the groove.
 
