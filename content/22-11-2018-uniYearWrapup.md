@@ -10,63 +10,63 @@ Status: Published
 # A Look Back At About 6 Games From 2018 And 49 That Weren't
 Holy balls I played a lot of games in 2018. This list includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, and three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything. Enjoy~
 
-Alpha Protocol
-Assassin's Creed IV: Black Flag
-Castlevania: Rondo of Blood
-Celeste
-Danganronpa 2: Goodbye Despair
-Dead Space
-Deus Ex: Mankind Divided
-Devil May Cry
-Devil May Cry 3
-Devil May Cry 4
-<a href="#factorio">Factorio</a>
-Final Fantasy
-Fist of the North Star: Lost Paradise
-Game Dev Tycoon
-Ghost Trick
-God of War
-Gravity Rush Remastered
-Guacamelee
-Hollow Knight
-Horizon: The Frozen Wilds
-Katamari Damacy
-Life is Strange: Before the Storm
-Luigi's Mansion
-Metro 2033 Redux
-Metroid Prime
-Oxenfree
-Papers, Please
-Pikmin
-Resident Evil 2
-Resident Evil 3: Nemesis
-Resident Evil 4
-Return of the Obra Dinn
-Ruiner
-Silent Hill
-Silent Hill 2
-Silent Hill 3
-Snake Pass
-Space Channel 5
-Space Channel 5: Part 2
-Spider-Man
-Subnautica
-Super Mario Brothers 3
-Symphony of the Night
-The Evil Within
-The Evil Within 2
-The Last of Us Remastered
-Thief
-Touhou 15: Legacy of Lunatic Kingdom
-Uncharted 2: Among Thieves
-Uncharted 3: Drake's Deception
-Uncharted 4: A Thief's End
-Valkyria Chronicles
-We Know The Devil
-Westerado: Double Barreled
-Yakuza Kiwami 2
+* Alpha Protocol
+* Assassin's Creed IV: Black Flag
+* Castlevania: Rondo of Blood
+* Celeste
+* Danganronpa 2: Goodbye Despair
+* Dead Space
+* Deus Ex: Mankind Divided
+* Devil May Cry
+* Devil May Cry 3
+* Devil May Cry 4
+* {Factorio}Factorio
+* Final Fantasy
+* Fist of the North Star: Lost Paradise
+* Game Dev Tycoon
+* Ghost Trick
+* God of War
+* Gravity Rush Remastered
+* Guacamelee
+* Hollow Knight
+* Horizon: The Frozen Wilds
+* Katamari Damacy
+* Life is Strange: Before the Storm
+* Luigi's Mansion
+* Metro 2033 Redux
+* Metroid Prime
+* Oxenfree
+* Papers, Please
+* Pikmin
+* Resident Evil 2
+* Resident Evil 3: Nemesis
+* Resident Evil 4
+* Return of the Obra Dinn
+* Ruiner
+* Silent Hill
+* Silent Hill 2
+* Silent Hill 3
+* Snake Pass
+* Space Channel 5
+* Space Channel 5: Part 2
+* Spider-Man
+* Subnautica
+* Super Mario Brothers 3
+* Symphony of the Night
+* The Evil Within
+* The Evil Within 2
+* The Last of Us Remastered
+* Thief
+* Touhou 15: Legacy of Lunatic Kingdom
+* Uncharted 2: Among Thieves
+* Uncharted 3: Drake's Deception
+* Uncharted 4: A Thief's End
+* Valkyria Chronicles
+* We Know The Devil
+* Westerado: Double Barreled
+* Yakuza Kiwami 2
 
-## <a name="factorio">Factorio</a>
+## {Factorio}
 
 If you were to ask the average gamer about Factorio, they would probably say "What the hell are you talking about", but if you were to ask someone who HAD heard about the game, they would probably tell you that it's very addicting. With endless potential for improving your factory and a low-pressure environment to do it in, it's easy to get invested and keep incrimentally optimizing for hours. However, if you're not the kind of person that typically likes those games, Factorio is difficult to recommend. On one hand, it's the gold standard of its niche, but it also doesn't spend much energy giving guidance or set goals. Luckily, it has a low price point of $20, so if it seems even a little interesting to you, it's worth a go.
 
