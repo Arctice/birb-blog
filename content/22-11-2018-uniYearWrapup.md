@@ -66,7 +66,7 @@ We Know The Devil
 Westerado: Double Barreled
 Yakuza Kiwami 2
 
-###**Factorio**
+(#Factorio)
 
 If you were to ask the average gamer about Factorio, they would probably say "What the hell are you talking about", but if you were to ask someone who HAD heard about the game, they would probably tell you that it's very addicting. With endless potential for improving your factory and a low-pressure environment to do it in, it's easy to get invested and keep incrimentally optimizing for hours. However, if you're not the kind of person that typically likes those games, Factorio is difficult to recommend. On one hand, it's the gold standard of its niche, but it also doesn't spend much energy giving guidance or set goals. Luckily, it has a low price point of $20, so if it seems even a little interesting to you, it's worth a go.
 
