@@ -10,6 +10,7 @@ Status: Published
 **Intro and Table of Contents**
 Holy balls I played a lot of games in 2018. This includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, because I think I've evangelized those enough. The three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything, just didn't quite hit the spot for me.
 
+Link Check
 Alpha Protocol
 Assassin's Creed IV: Black Flag
 Castlevania: Rondo of Blood
