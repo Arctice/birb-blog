@@ -8,7 +8,7 @@ Summary: Uni spent a few hours writing over 50 paragraphs of short game reviews 
 Status: Published
 
 # A Look Back At About 6 Games From 2018 And 49 That Weren't
-Holy balls I played a lot of games in 2018. This includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, because I think I've evangelized those enough. The three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything, just didn't quite hit the spot for me.
+Holy balls I played a lot of games in 2018. This list includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, and three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything. Enjoy~
 
 Alpha Protocol
 Assassin's Creed IV: Black Flag
@@ -66,8 +66,8 @@ We Know The Devil
 Westerado: Double Barreled
 Yakuza Kiwami 2
 
-## Factorio
-<a name="factorio></a>
+## <a name="factorio>Factorio</a>
+
 If you were to ask the average gamer about Factorio, they would probably say "What the hell are you talking about", but if you were to ask someone who HAD heard about the game, they would probably tell you that it's very addicting. With endless potential for improving your factory and a low-pressure environment to do it in, it's easy to get invested and keep incrimentally optimizing for hours. However, if you're not the kind of person that typically likes those games, Factorio is difficult to recommend. On one hand, it's the gold standard of its niche, but it also doesn't spend much energy giving guidance or set goals. Luckily, it has a low price point of $20, so if it seems even a little interesting to you, it's worth a go.
 
 ## Life is Strange: Before the Storm
