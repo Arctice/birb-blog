@@ -13,6 +13,7 @@ Holy balls I played a lot of games in 2018. This list includes all the games I p
 * <a href="http://birb.uk/uni-2018.html#alphaprotocol">Alpha Protocol</a>
 * <a href="http://birb.uk/uni-2018.html#ac4">Assassin's Creed IV: Black Flag</a>
 * <a href="http://birb.uk/uni-2018.html#rondo">Castlevania: Rondo of Blood</a>
+* <a href="http://birb.uk/uni-2018.html#sotn">Castlevania: Symphony of the Night</a>
 * <a href="http://birb.uk/uni-2018.html#celeste">Celeste</a>
 * <a href="http://birb.uk/uni-2018.html#dangan2">Danganronpa 2: Goodbye Despair</a>
 * <a href="http://birb.uk/uni-2018.html#deadspace">Dead Space</a>
@@ -24,10 +25,10 @@ Holy balls I played a lot of games in 2018. This list includes all the games I p
 * <a href="http://birb.uk/uni-2018.html#ff">Final Fantasy</a>
 * <a href="http://birb.uk/uni-2018.html#fotns">Fist of the North Star: Lost Paradise</a>
 * <a href="http://birb.uk/uni-2018.html#devtycoon">Game Dev Tycoon</a>
-* <a href="http://birb.uk/uni-2018.html#ghosttrick">Ghost Trick</a>
-* <a href="http://birb.uk/uni-2018.html#godofwar">God of War</a>
-* <a href="http://birb.uk/uni-2018.html#gravityrush">Gravity Rush Remastered</a>
-* <a href="http://birb.uk/uni-2018.html#guacamelee">Guacamelee</a>
+* <a href="http://birb.uk/uni-2018.html#ghosttrick">Ghost Trick: Phantom Detective</a>
+* <a href="http://birb.uk/uni-2018.html#gow">God of War</a>
+* <a href="http://birb.uk/uni-2018.html#gravityrush">Gravity Rush: Remastered</a>
+* <a href="http://birb.uk/uni-2018.html#guac">Guacamelee</a>
 * <a href="http://birb.uk/uni-2018.html#hollowknight">Hollow Knight</a>
 * <a href="http://birb.uk/uni-2018.html#katamari">Katamari Damacy</a>
 * <a href="http://birb.uk/uni-2018.html#lisbts">Life is Strange: Before the Storm</a>
@@ -50,8 +51,7 @@ Holy balls I played a lot of games in 2018. This list includes all the games I p
 * <a href="http://birb.uk/uni-2018.html#sc5p2">Space Channel 5: Part 2</a>
 * <a href="http://birb.uk/uni-2018.html#spiderman">Spider-Man</a>
 * <a href="http://birb.uk/uni-2018.html#subnautica">Subnautica</a>
-* <a href="http://birb.uk/uni-2018.html#mario3">Super Mario Brothers 3</a>
-* <a href="http://birb.uk/uni-2018.html#sotn">Symphony of the Night</a>
+* <a href="http://birb.uk/uni-2018.html#mario3">Super Mario Bros. 3</a>
 * <a href="http://birb.uk/uni-2018.html#tew">The Evil Within</a>
 * <a href="http://birb.uk/uni-2018.html#tew2">The Evil Within 2</a>
 * <a href="http://birb.uk/uni-2018.html#thief">Thief</a>
@@ -71,20 +71,19 @@ If you were to ask the average gamer about Factorio, they would probably say "Wh
 The first Life is Strange lived and died on empathy. The writing was good enough to strike a chord with people who could directly relate to the struggles on screen, but not good enough to make everyone else care. Personally, it was a memorable experience, but even I think making a prequel was a mistake. The events portrayed in Before the Storm were presented as a mystery in the first game, and were slowly revealed as you grew closer to other characters. To go back and remove all the mystery, and do so in three quick episodes instead of a full five, made it an unsatisfying narrative in multiple ways. Unless you're the biggest fan ever of Life is Strange, I wouldn't bother with this one.
 
 <p id="deadspace"></p>**Dead Space**
-This game came out in 2008, and I think everything that needs to be said about it has been said already. It's atmospheric, polished, fun, and you should check it out if you haven't already. You may notice that "scary" was missing from that list, so you could think I'm damning it with fine praise, but Dead Space shoots more for tension than scariness. I think that might be part of its widespread appeal; even people who don't typically like horror games can enjoy it after getting in the groove.
+I think everything that needs to be said about it has been said already. It's atmospheric, polished, fun, and you should check it out if you haven't already. You may notice that "scary" was missing from that list, so you could think I'm damning it with fine praise, but Dead Space shoots more for tension than scariness. I think that might be part of its widespread appeal; even people who don't typically like horror games can enjoy it after getting in the groove.
 
 <p id="westerado"></p>**Westerado: Double Barreled**
-I think it was Jon Blow who said that a game has to be either fun or interesting, but not necessarily both. Westerado is both, and yet I wouldn't call it a well designed game. The concept is that you're searching for an outlaw who burned down your family's farm and you have to gather clues about who it was, because he's just one of one-hundred randomly generated townsfolk. By doing side missions and favors for people, you learn hints like "he's wearing a tall hat" or "he's wearing a blue suit" and you can accuse anyone, at any time, of being the villain. The problem is, while the villain is random, the sidequests and map aren't. The game only provides enough content for one satisfying serious playthrough, and after that you'll either be repeating lots of sidequests or trashing the script and doing accusing everyone of being the killer or going on a bank-robbing rampage. That said, the amount of polish that went into letting you fly off the rails is admirable, and that first playthrough is still a good experience, but it doesn't live up to its own endless-Western-generator concept. It's a nice snacky pickup next time a sale's on.
+I think it was Jon Blow who said that a game has to be either fun or interesting, but not necessarily both. Westerado is both, and yet I wouldn't call it a well designed game. The concept is that you're searching for an outlaw who burned down your family's farm and you have to gather clues about who it was, because he's just one of one-hundred randomly generated townsfolk. By doing side missions and favors for people, you learn hints like "he's wearing a tall hat" or "he's wearing a blue suit" and you can accuse anyone, at any time, of being the villain. The problem is, while the villain is random, the sidequests and map aren't. The game only provides enough content for one satisfying serious playthrough, and after that you'll either be repeating lots of sidequests or trashing the script and accusing everyone of being the killer or going on a bank-robbing rampage. That said, the amount of polish that went into letting you fly off the rails is admirable, and that first playthrough is still a good experience, but it doesn't live up to its own endless-Western-generator concept. It's a nice snacky pickup next time a sale's on.
 
 <p id="snakepass"></p>**Snake Pass**
-A platformer without jumping sounds like a concept with Zooey Deschanel levels of disingenuous quirkiness, but Snake Pass actually pulls it off. Skillfully navigating an environment with the limited skillset of a snake provides for compelling gameplay, and you'll find yourself strangling your controller as you try to maintain your grip on each ledge. That's about the only string to the game's bow though, for better and worse. It's a nicely focused game, but if it starts feeling frustrating for you, there aren't any other redeeming qualities. Worth a look if the uniqueness of it all catches your eye, but you're also not missing much if it doesn't.
+A platformer without jumping sounds like a concept with Zooey Deschanel levels of disingenuous quirkiness, but Snake Pass actually pulls it off. Skillfully navigating an environment with the limited skillset of a snake provides for compelling gameplay, and you'll find yourself strangling your controller as you try to maintain your grip on each ledge. That's about the only string to the game's bow though, for better and worse. It's a nicely focused game, but if it starts frustrating you, there aren't any other redeeming qualities. Worth a look if the uniqueness of it all catches your eye, but you're also not missing much if it doesn't.
 
 <p id="ruiner"></p>**Ruiner**
 There isn't much to say about this game. It's a top down, cyberpunky action game that's...ok? The style's alright, the gameplay is standard, it's pretty short with a three hour run-time, not much to really hate here, but I also don't see much reason to pick up this game compared to anything else.
 
 <p id="deusex"></p>**Deus Ex: Mankind Divided**
 This game is beautiful.
-
 That's about the extent of my praise for it, sadly. Prague as a focused city hub has gotten a lot of praise, but with it broken up by so many loading screens and filled with so few interesting things to do, I was content to just blow through the main story, which was about as standard as a Deus Ex plot can be. The augmentations and abilities were also standard stuff, so this game overall feels bland. It's the bare template of the Deus Ex immersive sim subgenre.
 
 <p id="uncharted2"></p>**Uncharted 2: Among Thieves**
@@ -114,7 +113,7 @@ The definitive action game. I'm not usually a fan of action games, but this one 
 <p id="re2"></p>**Resident Evil 2**
 Everyone knows I love the Resident Evil Remaster for Gamecube, but I never had much interest in the PlayStation games. I love REmake for its incredible polish, something the PlayStation games famously lacked without the advantage of hindsight. That said, I was pleasantly surprised at how good RE2 was. It's a huge step forward from the original, with more of pretty much everything. More monster types, more zombies, more replay value, more cool characters, and more borderline nonsensical story. That said, it's naturally going to feel a bit dated, but I heard a rumor that we might see a remade version of it soon, we'll see.
 
-<p id="sotn"></p>**Symphony of the Night**
+<p id="sotn"></p>**Castlevania: Symphony of the Night**
 I've been pretty hard on this game in the past, being a massive fan of the classic-style linear Castlevania games. I could still throw out the same complaints of being slightly aimless and extremely unchallenging, but the amount of polish and charm this game has is absolutely insane. The visuals, unique weapon effects, optional content, and general attention to detail make for a game that's oozing with love. The biggest shame about it is that while it contributed the second half of the word "Metroidvania", not many games other than direct followups seem to follow in its footsteps rather than Metroid's. I would like to see some games break out of the Metroid formula  and try for Symphony of the Night's level of environmental interaction.
 
 <p id="dmc"></p>**Devil May Cry**
