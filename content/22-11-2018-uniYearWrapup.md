@@ -7,7 +7,7 @@ Authors: Uni
 Summary: Uni spent a few hours writing over 50 paragraphs of short game reviews of the things he played in 2018 so you better read it
 Status: published
 
-# A Look Back At About 6 Games From 2018 And 49 That Weren't
+# A Look Back At About 6 Games From 2018 And 47 That Weren't
 Holy balls I played a lot of games in 2018. This list includes all the games I played until the credits. The table of contents is alphabetized so you can find the games you're interested in quickly, but the list is ordered by when I played them, so you can see my memory resolution increase of the course of the document. I'm not including games that were replays like F-Zero GX and REmake, and three I quit (Sonic Mania, Killer 7, Hitman 2) are solid enough to where I don't feel the need to rail on them or anything. Enjoy~
 
 * <a href="http://birb.uk/uni-2018.html#alphaprotocol">Alpha Protocol</a>
