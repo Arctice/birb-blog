@@ -66,7 +66,7 @@ Holy balls I played a lot of games in 2018. This list includes all the games I p
 * Westerado: Double Barreled
 * Yakuza Kiwami 2
 
-<p id="factorio"></p>## Factorio
+<p id="factorio"></p>**Factorio**
 If you were to ask the average gamer about Factorio, they would probably say "What the hell are you talking about", but if you were to ask someone who HAD heard about the game, they would probably tell you that it's very addicting. With endless potential for improving your factory and a low-pressure environment to do it in, it's easy to get invested and keep incrementally optimizing for hours. However, if you're not the kind of person that typically likes those games, Factorio is difficult to recommend. It's the gold standard of its niche, but it doesn't spend much energy giving guidance or setting goals to entice the newcomers. Luckily, it has a low price point of $20, so it's worth a go.
 
 ## Life is Strange: Before the Storm
