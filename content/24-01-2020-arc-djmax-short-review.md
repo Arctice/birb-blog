@@ -22,6 +22,8 @@ The music itself is great, and even though this is as subjective as it gets, I t
 <p align="center"> <iframe id="ytplayer" type="text/html" width="80%" height="360" src="https://www.youtube.com/embed/1LBOx8-6nB0?&origin=http://birb.uk" frameborder="0" allowfullscreen></iframe></p>
 Respect V is primarily meant for keyboard(and similar controllers). While the previous version, DJMAX Respect, was on PS4, Respect V adds new charts that can only be played on keyboard. However, those are considered to be of an extreme difficulty, and if someone prefers, they probably could play on pad.
 
+![The Addiction]({attach}images/theAddiction.png)
+
 The developers are still actively working on the game; right now it is being patched quite often, and they're planning to add more online features, including a ranked ladder mode. Right now open play lobbies are already available(in a beta phase), which is a nice way to play through the songs with others.
 
 On the negative side, there are two relatively serious technical problems with the game. It includes an invasive rootkit-style anti-cheat system, which can put some people off. More worryingly, it's also an always-online game, which means playing without an internet connection is entirely impossible.
