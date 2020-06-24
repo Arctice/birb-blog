@@ -1,10 +1,10 @@
-Title: Unorganized vague critical rambling about TLOU2 that isn't from a fanboy of the first game or someone who hates LGBT people
+Title: Rambling vague complaints at TLOU2
 Date: 2020-06-24 19:00 
 Category: Game Analysis
 Tags: TLOU2
 Slug: TLOU2
 Authors: Uni 
-Summary: See title
+Summary: Unorganized vague critical rambling about TLOU2 that isn't from a fanboy of the first game or someone who hates LGBT people
 Status: published
 
 This will contain spoilers for both games in the series. These are games solidly focused on their narratives, so I didn’t see a way I could write in a spoiler-free way that gave more than two sentences saying the gameplay is the same. This is essentially a combination of review and recap for people not interested in the games, or have already played and need a review of what just happened. Continue at your own risk.
@@ -39,13 +39,13 @@ It’s easy to see where this complaint is coming from, no one likes to see thei
 
 I think people who say this are forgetting the details of the last game. Joel started out fairly guarded, but he worked with a partner. He worked as a smuggler, brokering deals between people he may not know and trusting it’s not a setup. He trusted the leader of the Fireflies enough to travel across an entire country to bring Ellie to their facility. Between games, he settled in with a community of people, and lived a peaceful life with them for four years. He mentions how he has a good relationship with the traders and migrants who pass through, and he was close to the town when this incident went down. You also have to consider the lack of alternatives he had at the time, running away from a massive horde of infected in a blizzard with minimal survival supplies. If people were arguing that the blizzard and horde were contrived, that’s something I could understand, given that severe weather is never a gameplay element after that point, and there is never another horde attack. I just think people are looking at how Joel’s a dangerous guy and treating him like Batman, a super-survivor who never makes mistakes and is justified in all his actions. This attachment of thinking he’s an amazing guy may lead to the next controversy, saying...
 
-3) Playing as Joel’s killer is a horrible thing to make players do
+3) It's horrible to make people play as Joel's killer
 
 Again, this seems to be an odd complaint for the setting. It’s repeatedly emphasized just how horrible Joel’s actions were towards others, including ambushing and killing civilians. Being unable to empathise with Abby is natural, but declaring her as more horrible than the other protagonists is an overreaction. If you reject the idea that Joel could be at the receiving end of his own brutal style of justice, you’ve turned him from an interesting character into Batman.
 
 4) It uses violence to a depraved extreme
 
-For a third time, people are either misremembering the first game or ignoring it for the purpose of piling on criticism. Cutting people’s throats open with broken glass was a full-on game mechanic, and you see a guy literally shoot himself in the head after killing his kid brother.
+For a third time, people are either misremembering the first game or ignoring it for the purpose of piling on criticism. Cutting people’s throats open with broken glass was a full-on game mechanic (shivs) and you see a guy literally shoot himself in the head after killing his kid brother.
 
 5) It’s misery porn
 
