@@ -5,6 +5,7 @@ Tags: TLOU2
 Slug: TLOU2
 Authors: Uni 
 Summary: See title
+Status: published
 
 This will contain spoilers for both games in the series. These are games solidly focused on their narratives, so I didn’t see a way I could write in a spoiler-free way that gave more than two sentences saying the gameplay is the same. This is essentially a combination of review and recap for people not interested in the games, or have already played and need a review of what just happened. Continue at your own risk.
 
